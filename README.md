@@ -1,4 +1,4 @@
-# Angry IPSW Fetcher
+# <img src="https://github.com/PwntrickSt4r/AngryIPSWFetcher/raw/refs/heads/main/icon.ico" width="40" height="40" style="vertical-align:middle"> Angry IPSW Fetcher
 An open-source interface for Apple firmware downloads.
 
 
