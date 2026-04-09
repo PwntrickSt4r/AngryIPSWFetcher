@@ -6,7 +6,7 @@ This project provides a streamlined web interface to browse, identify, and fetch
 
 The tool is fully open-source, allowing you to audit the code, host it yourself, or contribute to its development.
 
-# How it Works
+# <img src="https://i.imgur.com/Xvz4Emr.png" width="40" height="40" style="vertical-align:middle"> How it Works
 
 1. Selection: Choose your Device model from a list or enter Device Identificator (Example: iPhone7,1).
 
@@ -14,11 +14,11 @@ The tool is fully open-source, allowing you to audit the code, host it yourself,
 
 3. Download: Click the Download button to simply Start the Download.
 
-# Preview
+# <img src="https://i.imgur.com/EfUZLeT.png" width="40" height="40" style="vertical-align:middle"> Preview
 
 ![Preview of Angry IPSW Fetcher](https://raw.githubusercontent.com/PwntrickSt4r/AngryIPSWFetcher/refs/heads/main/Preview.PNG)
 
-# Getting Started
+# <img src="https://i.imgur.com/kroIQuP.png" width="40" height="40" style="vertical-align:middle"> Local Use
 
 To run this project locally:
 
